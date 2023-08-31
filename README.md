@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="" width="100"/>
+  <img src="https://github.com/shadowsheep1/shadowsheep1/blob/main/img/me.png" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/fbombardi/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
