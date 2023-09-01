@@ -18,7 +18,10 @@ Here are some ideas to get you started:
   <div id="badges">
     <a href="https://www.linkedin.com/in/fbombardi/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>  
+    </a>
+    <a href="https://www.linkedin.com/in/fbombardi">
+      <img src="https://img.shields.io/stackexchange/stackoverflow/r/4677951?style=for-the-badge" alt="StackOverflow Badge"/>
+    </a>    
   </div>
   <!--img src="https://komarev.com/ghpvc/?username=shadowsheep1&style=flat-square&color=blue" alt=""/-->
   Hi there 👋
